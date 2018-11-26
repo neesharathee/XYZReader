@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+MERGED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/ff0d4202a3a2c3f70e52b78c33202226/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/64bbda2da4efbccdd7ecc667125add44/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/da7e1ad15584e62dde114d8644758baf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/ae4c2f4e3917a2f2d3cf05f90140622b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/1321376c20fd856373ae5fc821a39a23/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/bc6e450b1990dbbb5d8cd5a199ba4c1b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/22733c435f48802e09b4ece9aacce2d9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/92dfec8c058812fb3ad0c944c7eadd0f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/21d47d953adc8c86a58ed5a353868dfb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/5ec5fab79e7d503c38f23d1b778acc69/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/45f42bbbb9fa4604a7cab3aa6903bd23/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c31f3e00278fad08c86e2940c8796faa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b0f1bb19dd8631e8e3eb241fa5094c60/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/fcb8d69ac16a054eacb4dcc114c99651/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:11:5-47:19
+MERGED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/ff0d4202a3a2c3f70e52b78c33202226/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/ff0d4202a3a2c3f70e52b78c33202226/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/64bbda2da4efbccdd7ecc667125add44/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/64bbda2da4efbccdd7ecc667125add44/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/da7e1ad15584e62dde114d8644758baf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/da7e1ad15584e62dde114d8644758baf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/ae4c2f4e3917a2f2d3cf05f90140622b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/ae4c2f4e3917a2f2d3cf05f90140622b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/1321376c20fd856373ae5fc821a39a23/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/1321376c20fd856373ae5fc821a39a23/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/bc6e450b1990dbbb5d8cd5a199ba4c1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/bc6e450b1990dbbb5d8cd5a199ba4c1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/22733c435f48802e09b4ece9aacce2d9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/22733c435f48802e09b4ece9aacce2d9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/92dfec8c058812fb3ad0c944c7eadd0f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/92dfec8c058812fb3ad0c944c7eadd0f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/21d47d953adc8c86a58ed5a353868dfb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/21d47d953adc8c86a58ed5a353868dfb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/5ec5fab79e7d503c38f23d1b778acc69/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/5ec5fab79e7d503c38f23d1b778acc69/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/45f42bbbb9fa4604a7cab3aa6903bd23/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/45f42bbbb9fa4604a7cab3aa6903bd23/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c31f3e00278fad08c86e2940c8796faa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c31f3e00278fad08c86e2940c8796faa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b0f1bb19dd8631e8e3eb241fa5094c60/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b0f1bb19dd8631e8e3eb241fa5094c60/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/fcb8d69ac16a054eacb4dcc114c99651/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/fcb8d69ac16a054eacb4dcc114c99651/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:18:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:26:9-38:20
+	android:parentActivityName
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:29:13-65
+	android:theme
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:28:13-61
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:27:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.VIEW
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:32:27-73
+data
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:33:17-100
+	android:mimeType
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:33:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:35:13-37:59
+	android:value
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:37:17-56
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:36:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:40:9-41:40
+	android:exported
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:40:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:43:9-45:40
+	android:authorities
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:44:13-56
+	android:exported
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml:43:19-53
+uses-sdk
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/ff0d4202a3a2c3f70e52b78c33202226/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/ff0d4202a3a2c3f70e52b78c33202226/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/64bbda2da4efbccdd7ecc667125add44/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/64bbda2da4efbccdd7ecc667125add44/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/da7e1ad15584e62dde114d8644758baf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/da7e1ad15584e62dde114d8644758baf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/ae4c2f4e3917a2f2d3cf05f90140622b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/ae4c2f4e3917a2f2d3cf05f90140622b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:palette-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/1321376c20fd856373ae5fc821a39a23/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/1321376c20fd856373ae5fc821a39a23/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/bc6e450b1990dbbb5d8cd5a199ba4c1b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/bc6e450b1990dbbb5d8cd5a199ba4c1b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/22733c435f48802e09b4ece9aacce2d9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/22733c435f48802e09b4ece9aacce2d9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/92dfec8c058812fb3ad0c944c7eadd0f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/92dfec8c058812fb3ad0c944c7eadd0f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/21d47d953adc8c86a58ed5a353868dfb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/21d47d953adc8c86a58ed5a353868dfb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/5ec5fab79e7d503c38f23d1b778acc69/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/5ec5fab79e7d503c38f23d1b778acc69/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/45f42bbbb9fa4604a7cab3aa6903bd23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/45f42bbbb9fa4604a7cab3aa6903bd23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c31f3e00278fad08c86e2940c8796faa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c31f3e00278fad08c86e2940c8796faa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b0f1bb19dd8631e8e3eb241fa5094c60/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b0f1bb19dd8631e8e3eb241fa5094c60/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/fcb8d69ac16a054eacb4dcc114c99651/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/fcb8d69ac16a054eacb4dcc114c99651/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/nia/Desktop/XYZReader/XYZReader/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/ff0d4202a3a2c3f70e52b78c33202226/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/ff0d4202a3a2c3f70e52b78c33202226/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/64bbda2da4efbccdd7ecc667125add44/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/64bbda2da4efbccdd7ecc667125add44/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/da7e1ad15584e62dde114d8644758baf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/da7e1ad15584e62dde114d8644758baf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/ae4c2f4e3917a2f2d3cf05f90140622b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/ae4c2f4e3917a2f2d3cf05f90140622b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/1321376c20fd856373ae5fc821a39a23/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/1321376c20fd856373ae5fc821a39a23/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/bc6e450b1990dbbb5d8cd5a199ba4c1b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/bc6e450b1990dbbb5d8cd5a199ba4c1b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/22733c435f48802e09b4ece9aacce2d9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/22733c435f48802e09b4ece9aacce2d9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/92dfec8c058812fb3ad0c944c7eadd0f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/92dfec8c058812fb3ad0c944c7eadd0f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/21d47d953adc8c86a58ed5a353868dfb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/21d47d953adc8c86a58ed5a353868dfb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/5ec5fab79e7d503c38f23d1b778acc69/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/5ec5fab79e7d503c38f23d1b778acc69/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/45f42bbbb9fa4604a7cab3aa6903bd23/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/45f42bbbb9fa4604a7cab3aa6903bd23/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c31f3e00278fad08c86e2940c8796faa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/c31f3e00278fad08c86e2940c8796faa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b0f1bb19dd8631e8e3eb241fa5094c60/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b0f1bb19dd8631e8e3eb241fa5094c60/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/fcb8d69ac16a054eacb4dcc114c99651/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/fcb8d69ac16a054eacb4dcc114c99651/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:25.4.0] /home/nia/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/d046ad3526369b558a8827387c4f7bb8/AndroidManifest.xml:27:13-51

@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nia/Desktop/XYZReader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/nia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/64bbda2da4efbccdd7ecc667125add44/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/nia/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/ff0d4202a3a2c3f70e52b78c33202226/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "615"
+                    }
+                },
+                {
+                    "source": "/home/nia/Desktop/XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,36",
+                        "endColumns": "57,51",
+                        "endOffsets": "141,83"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "328,386",
+                        "endColumns": "57,51",
+                        "endOffsets": "381,433"
+                    }
+                }
+            ]
+        }
+    ]
+}
